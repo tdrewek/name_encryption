@@ -14,9 +14,19 @@ git clone https://github.com/tdrewek/name_encryption.git
 ```
 Or you may choose to download the zip file [here](https://github.com/tdrewek/name_encryption/archive/refs/heads/main.zip)
 
+## Usage
 
-Open a terminal/console and navigate to the folder "name_encryption". Once in the directory, you can run the program one of two ways depending on the Python version you have installed on your system:
+Open a terminal/console and navigate to the folder "name_encryption" if cloned or "name_encryption-main" if downloaded. Once in the directory, you can run the program one of two ways depending on the Python version you have installed on your system:
 
+If using Python v3.x.x run:
+```bash
+python3 main.py
+```
 
-This program will first ask the user to enter a name/phrase and then hit 'enter'
+If using Python v2.x.x or older, run:
+```bash
+python main.py
+```
+
+This program will first ask the user to enter a name/phrase and hit 'enter'. 
 
