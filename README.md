@@ -43,7 +43,7 @@ python main.py
 ----> After  encryption : 6ie.dj{5(jp5*j*ae8g.rjS{jN/P\k/[
 
 
-(*) Enter encrypted message to decrypt: 6ie.dj{5(jp5*j*ae8g.rjS{jN/P\k/[
+(*)Enter encrypted message to decrypt: 6ie.dj{5(jp5*j*ae8g.rjS{jN/P\k/[
 
 
 ----> Original  message : Thank you for reading my README!

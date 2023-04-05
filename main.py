@@ -7,9 +7,10 @@ key = chars.copy()
 
 random.shuffle(key)
 
+
+##uncomment the two lines below to see the current generation of the random key to see how the encryption works##
 # print(f"chars: {chars}")
 # print(f"key: {key}")
-
 
 #ENCRYPT
 print("\n")
@@ -21,12 +22,11 @@ for letter in plain_text:
     index = chars.index(letter)
     cipher_text += key[index]
 
-#print(f"Before encryption : {plain_text}")
 print(f"----> After  encryption : {cipher_text}")
 print("\n")
 
 #DECRYPT
-cipher_text = input("(*) Enter encrypted message to decrypt: ")
+cipher_text = input("(*)Enter encrypted message to decrypt: ")
 print("\n")
 plain_text = ""
 
@@ -34,6 +34,5 @@ for letter in cipher_text:
     index = key.index(letter)
     plain_text += chars[index]
 
-#print(f"Encrypted message : {cipher_text}")
 print(f"----> Original  message : {plain_text}")
 print("\n")
