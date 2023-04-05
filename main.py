@@ -4,9 +4,7 @@ import string
 chars = string.punctuation + string.digits + string.ascii_letters + " "
 chars = list(chars)
 key = chars.copy()
-
 random.shuffle(key)
-
 
 ##uncomment the two lines below to see the current generation of the random key to see how the encryption works##
 # print(f"chars: {chars}")

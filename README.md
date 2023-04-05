@@ -9,7 +9,8 @@ As of right now, this program is only a demonstration of my knowledge on encrypt
 ## Installation/Download
 
 Python will be required to be installed on your system to run this program. 
-The latest version of Python is recommended but not required.
+The latest version of Python is recommended but not required. You can download Python [here](https://www.python.org/downloads/).
+
 
 You may choose to clone the repository:
 
