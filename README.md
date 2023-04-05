@@ -12,7 +12,7 @@ You may choose to clone the repository:
 ```bash
 git clone https://github.com/tdrewek/name_encryption.git
 ```
-Or you may choose to download the zip file [here](https://github.com/tdrewek/name_encryption/archive/refs/heads/main.zip)
+Or you may choose to download the zip file [here].(https://github.com/tdrewek/name_encryption/archive/refs/heads/main.zip)
 
 ## Usage
 
