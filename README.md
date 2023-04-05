@@ -24,7 +24,7 @@ Open a terminal/console and navigate to the folder "name_encryption" if cloned o
 
 Once in the directory, you can run the program one of two ways depending on the Python version you have installed on your system:
 
-If using Python v3.x.x run:
+If using Python v3.x.x, run:
 ```bash
 python3 main.py
 ```
@@ -36,7 +36,7 @@ python main.py
 
 ## Example
 
-```bash
+```
 (*)Enter name/phrase to encrypt: Thank you for reading my README!
 
 
