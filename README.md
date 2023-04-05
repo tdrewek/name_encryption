@@ -37,16 +37,16 @@ python main.py
 ## Example
 
 ```bash
-(*)Enter name/phrase to encrypt: This is my secret message: Dunkin is better than Starbucks!
+(*)Enter name/phrase to encrypt: Thank you for reading my README!
 
 
-----> After  encryption : 9@#(W#(WbYW(eo_ezWbe((j-e]W$U<G#<W#(WEezze_Wz@j<Whzj_EUoG(6
+----> After  encryption : 6ie.dj{5(jp5*j*ae8g.rjS{jN/P\k/[
 
 
-(*) Enter encrypted message to decrypt: 9@#(W#(WbYW(eo_ezWbe((j-e]W$U<G#<W#(WEezze_Wz@j<Whzj_EUoG(6
+(*) Enter encrypted message to decrypt: 6ie.dj{5(jp5*j*ae8g.rjS{jN/P\k/[
 
 
-----> Original  message : This is my secret message: Dunkin is better than Starbucks!
+----> Original  message : Thank you for reading my README!
 ```
 
 
