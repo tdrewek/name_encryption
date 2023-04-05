@@ -1,6 +1,6 @@
 # name_encryption
 
-A simple python program to encrypt a name or phrase. This algorithm will always encrypt the name/phrase in a different way each time the program is executed. A new key is generated at random upon run-time. Therefore, it will be impossible to decrypt the same name/phrase with the same key after the program has finished running. You should expext to see different encrypted results each time the program is executed.
+A simple Python program to encrypt a name or phrase. This algorithm will always encrypt the name/phrase in a different way each time the program is executed. A new key is generated at random upon run-time. Therefore, it will be impossible to decrypt the same name/phrase with the same key after the program has finished running. You should expext to see different encrypted results each time the program is executed.
 
 ## Disclaimer
 
